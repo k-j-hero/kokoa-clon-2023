@@ -1,0 +1,13 @@
+.point {
+  display: flex;
+  background-color: tomato;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  justify-content: center;
+  align-items: center;
+}
+
+.point-father {
+  position: relative;
+}
